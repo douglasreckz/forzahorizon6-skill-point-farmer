@@ -1,7 +1,7 @@
 """
 Forza Horizon - Event Lab Skill Point Farmer
 =============================================
-Author : swEd9984
+Author : swEd
 Usage  : python farmer.py
 
 How it works:
