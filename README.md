@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏎️ Forza Horizon — Event Lab Skill Point Farmer
+# 🏎️ Forza Horizon 6 — Event Lab Skill Point Farmer
 
 **Automated screen-reading bot that farms skill points on any Event Lab race loop.**  
 Detects game screens via colour analysis (OpenCV) — no image templates, no memory hacking.
@@ -57,6 +57,7 @@ The bot uses **HSV colour range detection** on specific screen regions, so it's 
 ## 🗂️ Recommended Event
 
 The bot was built and tested on the **"Skillpoint Meta — 10x Under 25 sec"** Event Lab shared by **KennWirUns** using a **1998 Subaru Impreza 22B-STi (S2 805)**.
+Event Code 692 410 869
 
 > You can use it with any short looped Event Lab race — just adjust `RACE_DURATION_SECONDS`.
 
