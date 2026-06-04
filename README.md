@@ -165,5 +165,5 @@ Feel free to fork, modify, and share.
 ---
 
 <div align="center">
-Made with ❤️ by <a href="https://github.com/YOUR_USERNAME">swEd9984</a>
+Made with ❤️ by <a href="https://github.com/douglasreckz">swEd</a>
 </div>
