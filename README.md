@@ -56,8 +56,10 @@ The bot uses **HSV colour range detection** on specific screen regions, so it's 
 
 ## 🗂️ Recommended Event
 
-The bot was built and tested on the **"Skillpoint Meta — 10x Under 25 sec"** Event Lab shared by **KennWirUns** using a **1998 Subaru Impreza 22B-STi (S2 805)**.
-Event Code 692 410 869
+~~The bot was built and tested on the **"Skillpoint Meta — 10x Under 25 sec"** Event Lab shared by **KennWirUns** using a **1998 Subaru Impreza 22B-STi (S2 805)**.  
+Event Code 692 410 869~~ 
+
+As Microsoft removed that event we currently tested it on, the share code we recommend is 362 177 064 - 15 SECONDS = 10 Skill Points - Credit & Wheelspin Farm by JJOEY ROCKET
 
 > You can use it with any short looped Event Lab race — just adjust `RACE_DURATION_SECONDS`.
 
